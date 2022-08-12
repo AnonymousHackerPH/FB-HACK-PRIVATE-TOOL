@@ -1,6 +1,6 @@
 # FB-HACK-PRIVATE-TOOL
 FACEBOOK HACK PRIVATE TOOL
 
-# INSTALL
+# INSTALL TERMUX
 
-```https://github.com/AnonymousHackerPH/FB-HACK-PRIVATE-TOOL.git; cd FB-HACK-PRIVATE-TOOL; sh install.sh```
+```git clone https://github.com/AnonymousHackerPH/FB-HACK-PRIVATE-TOOL.git; cd FB-HACK-PRIVATE-TOOL; sh install.sh```
